@@ -1,2 +1,2 @@
-Gasesti subiectul in pdf
-Interfata grafica a fost facuta folosing framework-ul QT
+Gasesti subiectul in pdf.
+Interfata grafica a fost facuta folosing framework-ul QT.
